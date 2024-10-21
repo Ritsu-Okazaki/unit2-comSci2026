@@ -1,1 +1,1 @@
-This is a repository for managing my creations for my computer science class.
+This is a repository to manage my creations for my computer science class.
