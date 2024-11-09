@@ -25,6 +25,7 @@ get_truth()
 ```
 
 ## Flow diagram
+![image](https://github.com/user-attachments/assets/22bd468e-add2-4c5e-8766-fdd3a729e255)
 
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/93508463-a8f1-43d8-8aa8-4ed2858c8ea1)
