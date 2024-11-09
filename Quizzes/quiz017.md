@@ -19,7 +19,7 @@ get_truth()
 ```
 
 ## Flow diagram
-![image](https://github.com/user-attachments/assets/ff8fcfd1-f3ae-49e4-89e5-bbc273b49ece)
+![image](https://github.com/user-attachments/assets/3f5cc394-f8f1-45f4-9fc6-a8be8d3fa9a8)
 
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/3984f406-9515-448e-8513-8432019c4178)
