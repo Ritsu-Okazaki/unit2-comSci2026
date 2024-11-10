@@ -18,7 +18,7 @@ produce()
 ```
 
 ## Flow diagram
-
+![image](https://github.com/user-attachments/assets/540de008-1eae-4178-9e41-773d425f0404)
 
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/797e8a26-cce4-476b-87f8-7853eba0408b)
