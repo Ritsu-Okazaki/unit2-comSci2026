@@ -24,8 +24,7 @@ plt.show()
 ```
 
 ## Flow diagram
-![image](https://github.com/user-attachments/assets/bc3d36bd-5c57-4c12-ac9d-2c5f3b59e1eb)
-
+![image](https://github.com/user-attachments/assets/03445f7b-efda-41fc-9a85-bb5a0b0945f5)
 
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/b6ab9e51-f952-4cb8-bcbc-22588a66c92f)
